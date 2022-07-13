@@ -1,5 +1,5 @@
 # Payment-UI
-Front-end design using XML in ANdroid studio
+Front-end design using XML in Android studio
 
 ## Screenshots
 
