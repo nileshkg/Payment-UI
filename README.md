@@ -1,4 +1,6 @@
 # Payment-UI
+Front-end design using XML in ANdroid studio
+
 ## Screenshots
 
 <img src="https://user-images.githubusercontent.com/67891339/145672472-c73b91a3-892f-4c89-b71d-b15c7070434e.jpg" align=left width=20% height=30%>
